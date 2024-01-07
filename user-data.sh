@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-# If you want to provision multiple vms create you can create multiple user data files for each
+# If you want to provision multiple vms you can create multiple user data files for each
 
 
 # Updating the os
